@@ -4,7 +4,6 @@ class sumOfNum
     {
         int[] values = {10,51,53,39,47,44,21};
         int n=values.length;
-        //Arrays.sort(values);
         for(int i=0;i<n;i++)
         {
             for(int j=i;j<n;j++)
